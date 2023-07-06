@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! Nice to meet you! 👋
 
 <h1 align="center">Hi 👋, I'm Ramille Santana</h1>
 <h3 align="center">A Computer Science student from Brazil passionate about learning new things.</h3>
@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/ramillers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramillers" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,5 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramillers&show_icons=true&locale=en" alt="ramillers" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramillers&" alt="ramillers" /></p>
-
 

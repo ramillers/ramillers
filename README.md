@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Ramille Santana</h1>
 <h3 align="center">A Computer Science student from Brazil passionate about learning new things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramillers&label=Profile%20views&color=0e75b6&style=flat" alt="ramillers" /> </p>
-
 - 🔭 I’m currently working on [gerador de currículo](https://github.com/ramillers/geradorCurriculo.git)
 
 - 🌱 I’m currently learning **JavaScript**
@@ -26,4 +24,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramillers&show_icons=true&locale=en&layout=compact" alt="ramillers" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramillers&show_icons=true&locale=en" alt="ramillers" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramillers&" alt="ramillers" /></p>
 

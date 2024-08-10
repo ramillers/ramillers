@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [gerador de currículo](https://github.com/ramillers/geradorCurriculo.git)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Full Stack Development and Machine Learning**
 
 - 📫 How to reach me **rmillesantana@gmail.com**
 

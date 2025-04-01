@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ramille Santana</h1>
 <h3 align="center">A Computer Science student from Brazil passionate about learning new things.</h3>
 
-- 🌱 I’m currently learning **Full Stack Development and Machine Learning**
+- 🌱 I’m currently learning **Full Stack Development and Software Engineering**
 
 - 📫 How to reach me **rmillesantana@gmail.com**
 
